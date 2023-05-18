@@ -1,0 +1,506 @@
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+1 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Kiểm tra lại đường dùng |  | 
+2 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Lỗi thứ tự đường dùng |  | 
+3 | VÕ THỊ BỈ | 1072 | 2023-05-08 | Chưa lượng giá xét nghiệm |  | 
+4 | VÕ THỊ BỈ | 1072 | 2023-05-09 | Chưa lượng giá xét nghiệm |  | 
+5 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Cho thuốc sai giờ Sáng | ASPIRIN 81 | 
+6 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Thiếu mã ICD10 hoặc chưa được training! | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+7 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | ASPIRIN 81 | 
+8 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Cho thuốc sai giờ Sáng | Kidmin | 
+9 | VÕ THỊ BỈ | 1072 | 2023-05-09 19:18:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Kidmin | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+ | 
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+ | 
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+1 | LÊ THÀNH SIÊU | 60488 | 2023-05-12 14:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+2 | MAI VĂN ĐỰC | 17540 | 2023-05-11 09:36:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+3 | VÕ THỊ BỈ | 1072 | 2023-05-12 10:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+4 | VÕ THỊ BỈ | 1072 | 2023-05-12 10:20:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | BRAPANTO | 
+5 | PHẠM THỊ NĂM | 7712 | 2023-05-09 14:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+6 | NGUYỄN VĂN HIỆN | 3238 | 2023-05-08 09:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+7 | LÂM TRỌNG HIẾU | 27115 | 2023-05-08 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+8 | LÂM TRỌNG HIẾU | 27115 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+9 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 06:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+10 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 06:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+11 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+12 | LỮ VĂN KHỞI | 5561 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+13 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+14 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 16:39:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+15 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 18:01:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+16 | NGÔ XUÂN TRƯỜNG | 30899 | 2023-05-08 06:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+17 | NGÔ XUÂN TRƯỜNG | 30899 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+18 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+19 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+20 | NGUYỄN THỊ LIÊN | 1680 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+21 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 06:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+22 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 06:15:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+23 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+24 | BIỆN MINH TIỄN | 2461 | 2023-05-08 06:25:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+25 | BIỆN MINH TIỄN | 2461 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+26 | CAO THANH NHẪN | 13899 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+27 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 05:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+28 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 05:45:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+29 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+30 | ĐOÀN THỊ HIỀN | 9154 | 2023-05-12 06:05:00 | Cho thuốc sai giờ Trưa | Nifedipin Hasan 20 Retard | 
+31 | ĐOÀN THỊ HIỀN | 9154 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+32 | DƯƠNG THÀNH CÔNG | 751 | 2023-05-11 13:00:00 | Kiểm tra lại đường dùng |  | 
+33 | HỒ THỊ DUNG | 50297 | 2023-05-11 14:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+34 | LÂM BÍCH PHƯỢNG | 19568 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+35 | ĐÀO VĂN CÔNG | 16795 | 2023-05-08 06:35:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+36 | ĐÀO VĂN CÔNG | 16795 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+37 | NGUYỄN HỮU PHÚC | 24434 | 2023-05-08 06:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+38 | NGUYỄN HỮU PHÚC | 24434 | 2023-05-08 06:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+39 | NGUYỄN HỮU PHÚC | 24434 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+40 | VÕ THỊ TÊ | 40084 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+41 | NGUYỄN VĂN THÉP | 46368 | 2023-05-08 15:57:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+42 | NGUYỄN VĂN TỔNG | 7759 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+43 | NGUYỄN VĂN TỔNG | 7759 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+44 | NGUYỄN VĂN TRẮNG | 53735 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+45 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+46 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+47 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Sắt (III) hydroxyd polymaltose | 
+48 | PHẠM THỊ MẤY | 4596 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+49 | PHẠM THỊ VÂN | 1368 | 2023-05-10 14:15:00 | Thiếu mã ICD10 hoặc chưa được training! | N-acetylcystein | 
+50 | PHẠM THỊ VÂN | 1368 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+51 | BÙI THỊ ÚT | 11337 | 2023-05-13 06:35:00 | Lỗi thứ tự đường dùng |  | 
+52 | PHẠM VĂN PHƠ | 15220 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+53 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+54 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 05:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+55 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+56 | TRẦN THANH HÀ | 40366 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+57 | TRẦN THỊ NHÀN | 7242 | 2023-05-08 06:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+58 | TRẦN THỊ NHÀN | 7242 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+59 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Linezolid* | 
+60 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Doxycyclin | 
+61 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+62 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:33:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+63 | VŨ THỊ KIM CHÂU | 3396 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+64 | TRẦN VĂN CHƯƠNG | 3997 | 2023-05-08 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+65 | TRẦN TRỌNG NHÂN | 5498 | 2023-05-11 15:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+66 | TRẦN TRỌNG NHÂN | 5498 | 2023-05-08 15:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Levofloxacin | 
+67 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+68 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+69 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+70 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+71 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-05-08 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+72 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-05-08 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+73 | VÕ AN THƯ | 59386 | 2023-05-08 10:35:00 | Thiếu mã ICD10 hoặc chưa được training! | Rosuvastatin | 
+74 | THẠCH HOÀNG THẢO | 51576 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+75 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 06:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+76 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 06:20:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+77 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+78 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+79 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+80 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+81 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Levosulpirid | 
+82 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+83 | ĐÀO THỊ HOA | 37110 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+84 | ĐÀO THỊ HOA | 37110 | 2023-05-11 11:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+85 | LÝ THỊ QUẨN | 44034 | 2023-05-08 05:55:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+86 | LÝ THỊ QUẨN | 44034 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+87 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 05:25:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+88 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 05:25:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+89 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+90 | ĐỒNG HOÀNG LUÔNG | 57152 | 2023-05-10 14:40:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+91 | ĐỒNG HOÀNG LUÔNG | 57152 | 2023-05-10 10:40:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+92 | LÂM THỊ THANH THÚY | 12866 | 2023-05-08 06:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+93 | LÂM THỊ THANH THÚY | 12866 | 2023-05-08 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+94 | LÊ THÀNH TRUNG | 420 | 2023-04-29 15:02:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+95 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-27 10:50:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+96 | PHAN HỮU NGỌC | 59584 | 2023-04-24 14:40:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+97 | VÕ AN THƯ | 59386 | 2023-04-21 12:30:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+98 | ĐẶNG THỊ NGÔI | 59303 | 2023-04-20 10:40:00 | Thiếu mã ICD10 hoặc chưa được training! | Methyl prednisolon | 
+99 | ĐẶNG THỊ NGÔI | 59303 | 2023-04-20 10:40:00 | Thiếu mã ICD10 hoặc chưa được training! | Esomeprazol | 
+100 | PHẠM THỊ NĂM | 7712 | 2023-04-19 12:45:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Natri clorid 0,9% 500ml | 
+101 | PHẠM THỊ NĂM | 7712 | 2023-04-19 12:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Epinephrin (adrenalin) | 
+102 | PHẠM THỊ NĂM | 7712 | 2023-04-19 11:00:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | NATRI CLORID 0,9% | 
+103 | PHẠM THỊ NĂM | 7712 | 2023-04-19 11:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Insulin người tác dụng nhanh, ngắn | 
+104 | NGUYỄN VĂN HIỆN | 3238 | 2023-04-17 14:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+105 | ĐẶNG THỊ PHỤNG | 58594 | 2023-04-14 08:12:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+106 | NGUYỄN THỊ TRÚC HIỀN | 46943 | 2023-04-17 16:45:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Thyperopa forte | 
+107 | NGUYỄN VĂN HIỆN | 3238 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+108 | NGUYỄN VĂN HIỆN | 3238 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+109 | NGUYỄN VĂN HIỆN | 3238 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+110 | NGUYỄN VĂN THÉP | 46368 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+111 | NGUYỄN VĂN THÉP | 46368 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+112 | NGUYỄN VĂN TỔNG | 7759 | 2023-04-10 05:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+113 | NGUYỄN VĂN TRẮNG | 53735 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+114 | NGUYỄN VĂN TRẮNG | 53735 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+115 | NGUYỄN VĂN TRẮNG | 53735 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+116 | PHẠM THỊ ĐIỆP | 4021 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+117 | PHẠM THỊ ĐIỆP | 4021 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+118 | PHẠM THỊ ĐIỆP | 4021 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+119 | PHẠM THỊ ĐIỆP | 4021 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+120 | PHẠM THỊ HOÀI THƯƠNG | 3993 | 2023-04-10 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+121 | PHẠM THỊ HOÀI THƯƠNG | 3993 | 2023-04-10 05:10:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+122 | PHẠM THỊ MẤY | 4596 | 2023-04-17 12:10:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+123 | PHẠM THỊ MẤY | 4596 | 2023-04-28 12:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+124 | PHẠM THỊ MẤY | 4596 | 2023-05-01 12:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+125 | PHẠM THỊ VÂN | 1368 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+126 | PHẠM THỊ VÂN | 1368 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+127 | PHẠM THỊ VÂN | 1368 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+128 | PHẠM VĂN PHƠ | 15220 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+129 | PHAN THỊ MƯỜI | 9452 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+130 | BIỆN MINH TIỄN | 2461 | 2023-05-02 10:25:00 | Thiếu mã ICD10 hoặc chưa được training! | Trimebutin maleat | 
+131 | TRẦN NGỌC TÀI | 15948 | 2023-04-10 05:35:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+132 | TRẦN THANH HÀ | 40366 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+133 | TRẦN THỊ NHÀN | 7242 | 2023-05-02 14:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Fexofenadin | 
+134 | TRẦN THỊ NHÀN | 7242 | 2023-05-02 14:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Paracetamol (acetaminophen) | 
+135 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-03 | Chưa lượng giá xét nghiệm |  | 
+136 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-05 14:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Linezolid* | 
+137 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-03 10:20:00 | Thiếu mã ICD10 hoặc chưa được training! | Levofloxacin | 
+138 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-04-17 09:55:00 | Cho thuốc sai giờ Trưa | Nanokine 2000 IU | 
+139 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+140 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+141 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-03 10:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+142 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-04 13:50:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+143 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-05 14:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+144 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+145 | VŨ THỊ KIM CHÂU | 3396 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+146 | VŨ THỊ KIM CHÂU | 3396 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+147 | VŨ THỊ KIM CHÂU | 3396 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+148 | TRẦN VĂN CHƯƠNG | 3997 | 2023-04-10 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+149 | TRẦN VĂN CHƯƠNG | 3997 | 2023-04-10 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+150 | TRẦN VĂN CHƯƠNG | 3997 | 2023-04-10 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+151 | TRẦN VĂN CHƯƠNG | 3997 | 2023-04-10 05:10:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+152 | TRẦN TRỌNG NHÂN | 5498 | 2023-04-10 05:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+153 | TRẦN TRỌNG NHÂN | 5498 | 2023-04-10 05:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+154 | TRẦN TRỌNG NHÂN | 5498 | 2023-04-10 05:35:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+155 | HUỲNH VĂN TÈO | 54444 | 2023-04-10 06:25:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+156 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-04-10 05:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+157 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-04-10 05:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+158 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-04-10 05:35:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+159 | LƯU ĐỨC NGHIỆP | 16596 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+160 | LƯU ĐỨC NGHIỆP | 16596 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+161 | LƯU ĐỨC NGHIỆP | 16596 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+162 | NGUYỄN THỊ CƯỜNG | 667 | 2023-04-10 05:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+163 | BÙI THỊ HOA | 55465 | 2023-05-03 06:45:00 | Thiếu mã ICD10 hoặc chưa được training! | Hyoscin butylbromid | 
+164 | BÙI THỊ HOA | 55465 | 2023-04-10 06:25:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+165 | NGUYỄN THỊ GÁI LỚN | 1119 | 2023-04-17 09:35:00 | Cho thuốc sai giờ Trưa | Nanokine 2000 IU | 
+166 | NGUYỄN THỊ GÁI LỚN | 1119 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+167 | NGUYỄN THỊ GÁI LỚN | 1119 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+168 | NGUYỄN THỊ GÁI LỚN | 1119 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+169 | NGUYỄN THỊ LIÊN | 1680 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+170 | NGUYỄN THỊ LIÊN | 1680 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+171 | NGUYỄN THỊ LIÊN | 1680 | 2023-04-26 09:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+172 | NGUYỄN THỊ LIÊN | 1680 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+173 | DƯƠNG THÀNH CÔNG | 751 | 2023-04-11 | Chưa lượng giá xét nghiệm |  | 
+174 | DƯƠNG THÀNH CÔNG | 751 | 2023-04-10 06:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+175 | ĐOÀN THỊ HIỀN | 9154 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+176 | ĐOÀN THỊ HIỀN | 9154 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+177 | ĐOÀN THỊ HIỀN | 9154 | 2023-04-10 07:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+178 | NGUYỄN THỊ NÊ | 7229 | 2023-04-10 05:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+179 | NGUYỄN THỊ NÊ | 7229 | 2023-04-10 05:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+180 | ĐỖ THANH HÙNG | 2057 | 2023-05-06 14:20:00 | Thiếu mã ICD10 hoặc chưa được training! | Insulin analog tác dụng chậm, kéo dài (Glargine, Detemir, Degludec) | 
+181 | ĐỖ THANH HÙNG | 2057 | 2023-04-10 06:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+182 | CAO THANH NHẪN | 13899 | 2023-04-10 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+183 | NGUYỄN THỊ PHIẾM | 26577 | 2023-05-05 06:35:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+184 | NGUYỄN THỊ PHIẾM | 26577 | 2023-05-05 09:35:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+185 | MAI HÙNG MẠNH | 50795 | 2023-05-03 15:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Domperidon | 
+186 | MAI HÙNG MẠNH | 50795 | 2023-04-10 07:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+187 | VÕ THỊ TÊ | 40084 | 2023-05-02 09:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+188 | LÊ TẤN BÌNH | 52781 | 2023-05-01 18:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Glucose | 
+189 | NGUYỄN VĂN THỰC | 57827 | 2023-04-10 05:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+190 | LÂM BÍCH PHƯỢNG | 19568 | 2023-04-26 | Chưa lượng giá xét nghiệm |  | 
+191 | LÂM BÍCH PHƯỢNG | 19568 | 2023-04-14 07:35:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+192 | LÂM BÍCH PHƯỢNG | 19568 | 2023-04-17 07:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+193 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+194 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+195 | ĐÀO VĂN CÔNG | 16795 | 2023-04-18 09:50:00 | Cho thuốc sai giờ Trưa | Nanokine 2000 IU | 
+196 | TRẦN TẤN ĐẠT | 33956 | 2023-04-10 06:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+197 | TRẦN TẤN ĐẠT | 33956 | 2023-04-10 06:20:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+198 | TRẦN TẤN ĐẠT | 33956 | 2023-04-10 06:25:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+199 | NGUYỄN HỮU PHÚC | 24434 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+200 | LÊ THÀNH THẮNG | 45876 | 2023-04-10 05:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+201 | LÊ THÀNH THẮNG | 45876 | 2023-04-10 05:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+202 | LỮ VĂN KHỞI | 5561 | 2023-04-10 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+203 | BÙI THỊ ÚT | 11337 | 2023-05-02 23:50:00 | Kiểm tra lại đường dùng |  | 
+204 | NGUYỄN TẤN CƯỜNG | 58706 | 2023-04-15 18:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Desloratadin | 
+205 | NGUYỄN TẤN CƯỜNG | 58706 | 2023-04-08 16:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+206 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-08 15:45:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | CHALME | 
+207 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-08 15:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Lansoprazol | 
+208 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-08 15:45:00 | Thiếu mã ICD10 hoặc chưa được training! | Itoprid | 
+209 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-08 15:45:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Ibutop 50 | 
+210 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-08 15:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Mật ong; gừng; cam thảo; bạc hà; Eucalyptol; Tinh dầu tần; Tinh dầu quế | 
+211 | NGUYỄN QUỐC CHÍNH | 35860 | 2023-04-08 15:16:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+212 | LÊ TẤN BÌNH | 52781 | 2023-04-07 15:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Paracetamol (acetaminophen) | 
+213 | LÊ TẤN BÌNH | 52781 | 2023-03-22 15:30:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+214 | LÊ TẤN BÌNH | 52781 | 2023-03-24 13:45:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+215 | NGUYỄN LÊ HUỲNH NHƯ | 43374 | 2023-03-16 06:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+216 | ĐỒNG HOÀNG LUÔNG | 57152 | 2023-03-20 16:42:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+217 | NGUYỄN THỊ CƯỜNG | 667 | 2023-03-13 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+218 | NGUYỄN THỊ CƯỜNG | 667 | 2023-03-13 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+219 | NGUYỄN THỊ CƯỜNG | 667 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+220 | NGUYỄN THỊ CƯỜNG | 667 | 2023-04-04 08:45:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+221 | BÙI THỊ ÚT | 11337 | 2023-03-25 07:15:00 | Thiếu mã ICD10 hoặc chưa được training! | Methyl prednisolon | 
+222 | BÙI THỊ ÚT | 11337 | 2023-03-25 07:15:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | SOLU MEDROL INJ 40MG 1'S | 
+223 | BÙI THỊ ÚT | 11337 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+224 | CAO THANH NHẪN | 13899 | 2023-03-13 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+225 | CAO THANH NHẪN | 13899 | 2023-03-13 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+226 | CAO THANH NHẪN | 13899 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+227 | ĐÀO VĂN CÔNG | 16795 | 2023-03-13 05:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+228 | ĐÀO VĂN CÔNG | 16795 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+229 | ĐỖ THANH HÙNG | 2057 | 2023-03-13 06:35:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+230 | DƯƠNG THÀNH CÔNG | 751 | 2023-03-13 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+231 | HỒ THỊ DUNG | 50297 | 2023-03-13 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+232 | HỒ THỊ DUNG | 50297 | 2023-04-03 08:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+233 | LÂM BÍCH PHƯỢNG | 19568 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+234 | LÂM BÍCH PHƯỢNG | 19568 | 2023-03-24 10:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+235 | LÂM BÍCH PHƯỢNG | 19568 | 2023-03-27 08:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+236 | LÊ THÀNH ĐẠT | 10760 | 2023-03-18 11:20:00 | Thiếu mã ICD10 hoặc chưa được training! | Fexofenadin | 
+237 | LÊ THÀNH ĐẠT | 10760 | 2023-03-14 14:45:00 | Cho thuốc sai giờ Sáng | AUGTIPHA 625mg | 
+238 | LÊ THÀNH ĐẠT | 10760 | 2023-03-14 14:45:00 | Cho thuốc sai giờ Sáng | Tadaritin | 
+239 | LÊ THÀNH ĐẠT | 10760 | 2023-03-14 14:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Desloratadin | 
+240 | LIÊU NGỌC HUỆ | 2708 | 2023-03-13 05:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+241 | LỮ VĂN KHỞI | 5561 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+242 | LƯU ĐỨC NGHIỆP | 16596 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+243 | LÝ NGỌC PHƯỢNG | 32856 | 2023-04-03 18:45:00 | Cho thuốc sai giờ Tối | NATRI CLORID 0,9% | 
+244 | LÝ NGỌC PHƯỢNG | 32856 | 2023-04-03 18:45:00 | Cho thuốc sai giờ Tối | Sodium Chloride 0.9% 1000ml | 
+245 | LÝ NGỌC PHƯỢNG | 32856 | 2023-04-03 18:45:00 | Cho thuốc sai giờ Tối | Heparin- Belmed | 
+246 | NGÔ XUÂN TRƯỜNG | 30899 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+247 | NGUYỄN ANH VŨ | 21748 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+248 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+249 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+250 | NGUYỄN THỊ GÁI LỚN | 1119 | 2023-03-13 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+251 | NGUYỄN THỊ LIÊN | 1680 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+252 | NGUYỄN THỊ NÊ | 7229 | 2023-03-27 | Chưa lượng giá xét nghiệm |  | 
+253 | NGUYỄN THỊ PHIẾM | 26577 | 2023-03-13 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+254 | NGUYỄN THỊ TRIÊN | 53019 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+255 | NGUYỄN VĂN HIỆN | 3238 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+256 | NGUYỄN VĂN TỔNG | 7759 | 2023-03-13 05:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+257 | NGUYỄN VĂN TRẮNG | 53735 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+258 | PHẠM THỊ ĐIỆP | 4021 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+259 | PHẠM THỊ ĐIỆP | 4021 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+260 | PHẠM THỊ HOÀI THƯƠNG | 3993 | 2023-03-13 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+261 | PHẠM THỊ HOÀI THƯƠNG | 3993 | 2023-03-20 10:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+262 | PHẠM THỊ HOÀI THƯƠNG | 3993 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+263 | PHẠM THỊ MẤY | 4596 | 2023-03-13 12:20:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+264 | PHẠM THỊ MẤY | 4596 | 2023-03-31 12:05:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+265 | PHẠM THỊ MẤY | 4596 | 2023-04-03 12:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+266 | PHẠM THỊ VÂN | 1368 | 2023-04-03 14:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+267 | PHẠM THỊ VÂN | 1368 | 2023-04-03 14:30:00 | Thiếu mã ICD10 hoặc chưa được training! | Thiamazol | 
+268 | PHẠM THỊ VÂN | 1368 | 2023-03-13 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+269 | PHẠM VĂN PHƠ | 15220 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+270 | PHAN THỊ MƯỜI | 9452 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+271 | PHAN VĂN CỎ | 8424 | 2023-03-20 10:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+272 | TRẦN NGỌC TÀI | 15948 | 2023-03-13 06:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+273 | TRẦN THANH HÀ | 40366 | 2023-03-13 06:30:00 | Lỗi thứ tự đường dùng |  | 
+274 | TRẦN THANH HÀ | 40366 | 2023-03-13 06:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+275 | TRẦN THANH HÀ | 40366 | 2023-03-13 06:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+276 | TRẦN THỊ NHÀN | 7242 | 2023-04-01 14:20:00 | Thiếu mã ICD10 hoặc chưa được training! | Alpha chymotrypsin | 
+277 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-03-29 11:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+278 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-03-13 07:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+279 | VŨ THỊ KIM CHÂU | 3396 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+280 | NGUYỄN BÁ NGỌC | 807 | 2023-03-23 09:55:00 | Thiếu mã ICD10 hoặc chưa được training! | Paracetamol (acetaminophen) | 
+281 | NGUYỄN BÁ NGỌC | 807 | 2023-03-13 05:45:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+282 | NGUYỄN BÁ NGỌC | 807 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+283 | NGUYỄN BÁ NGỌC | 807 | 2023-04-04 09:30:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+284 | TRẦN VĂN CHƯƠNG | 3997 | 2023-03-13 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+285 | TRẦN TRỌNG NHÂN | 5498 | 2023-03-13 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+286 | TRẦN TRỌNG NHÂN | 5498 | 2023-03-13 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+287 | TRẦN TRỌNG NHÂN | 5498 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+288 | TRẦN TRỌNG NHÂN | 5498 | 2023-03-15 08:45:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+289 | TRẦN TRỌNG NHÂN | 5498 | 2023-03-15 09:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+290 | HUỲNH VĂN TÈO | 54444 | 2023-03-13 05:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+291 | HUỲNH VĂN TÈO | 54444 | 2023-03-13 05:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+292 | HUỲNH VĂN TÈO | 54444 | 2023-04-08 11:15:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+293 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-03-13 06:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+294 | THẠCH HOÀNG THẢO | 51576 | 2023-03-13 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+295 | DƯƠNG THỊ LIỀN | 55265 | 2023-03-25 | Chưa lượng giá xét nghiệm |  | 
+296 | DƯƠNG THỊ LIỀN | 55265 | 2023-03-25 09:35:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | STADNEX 40 CAP | 
+297 | DƯƠNG THỊ LIỀN | 55265 | 2023-03-25 09:35:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Ibutop 50 | 
+298 | DƯƠNG THỊ LIỀN | 55265 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+299 | BÙI THỊ HOA | 55465 | 2023-03-13 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+300 | BÙI THỊ HOA | 55465 | 2023-03-21 17:30:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+301 | TRẦN TẤN ĐẠT | 33956 | 2023-04-06 | Chưa lượng giá xét nghiệm |  | 
+302 | TRẦN TẤN ĐẠT | 33956 | 2023-03-13 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+303 | TRẦN TẤN ĐẠT | 33956 | 2023-04-08 11:45:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+304 | LÂM THỊ THANH THÚY | 12866 | 2023-03-16 10:30:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+305 | NGUYỄN HỮU PHÚC | 24434 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+306 | VÕ THỊ TÊ | 40084 | 2023-03-13 05:00:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+307 | BIỆN MINH TIỄN | 2461 | 2023-04-06 | Chưa lượng giá xét nghiệm |  | 
+308 | BIỆN MINH TIỄN | 2461 | 2023-04-08 11:35:00 | Có tờ chăm sóc không có tờ điều trị |  | 
+
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+1 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Insulin trộn, hỗn hợp | 
+2 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+3 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Thiếu mã ICD10 hoặc chưa được training! | Nicorandil | 
+4 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Pecrandil 5 | 
+5 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Thiếu mã ICD10 hoặc chưa được training! | Ketoprofen | 
+6 | VÕ THỊ BỈ | 1072 | 2023-05-12 10:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+7 | VÕ THỊ BỈ | 1072 | 2023-05-12 10:20:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | BRAPANTO | 
+8 | PHẠM THỊ NĂM | 7712 | 2023-05-09 14:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+9 | NGUYỄN VĂN HIỆN | 3238 | 2023-05-08 09:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+10 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Linezolid* | 
+11 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Doxycyclin | 
+12 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+13 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:33:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+14 | PHẠM THỊ MẤY | 4596 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+15 | VÕ AN THƯ | 59386 | 2023-05-08 10:35:00 | Thiếu mã ICD10 hoặc chưa được training! | Rosuvastatin | 
+16 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-05-08 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+17 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-05-08 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+18 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+19 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+20 | NGÔ XUÂN TRƯỜNG | 30899 | 2023-05-08 06:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+21 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+22 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 16:39:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+23 | LỮ VĂN KHỞI | 5561 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+24 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 06:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+25 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 06:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+26 | LÂM TRỌNG HIẾU | 27115 | 2023-05-08 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+27 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+28 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+29 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+30 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Levosulpirid | 
+31 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+32 | LÝ THỊ QUẨN | 44034 | 2023-05-08 05:55:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+33 | ĐÀO VĂN CÔNG | 16795 | 2023-05-08 06:35:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+34 | NGUYỄN HỮU PHÚC | 24434 | 2023-05-08 06:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+35 | VÕ THỊ TÊ | 40084 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+36 | LÂM THỊ THANH THÚY | 12866 | 2023-05-08 06:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+37 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 05:25:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+38 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 05:25:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+39 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 06:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+40 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 06:20:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+41 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+42 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+43 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+44 | TRẦN TRỌNG NHÂN | 5498 | 2023-05-11 15:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+45 | TRẦN TRỌNG NHÂN | 5498 | 2023-05-08 15:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Levofloxacin | 
+46 | TRẦN VĂN CHƯƠNG | 3997 | 2023-05-08 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+47 | DƯƠNG THÀNH CÔNG | 751 | 2023-05-11 13:00:00 | Kiểm tra lại đường dùng |  | 
+48 | VŨ THỊ KIM CHÂU | 3396 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+49 | ĐỒNG HOÀNG LUÔNG | 57152 | 2023-05-10 14:40:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+50 | HỒ THỊ DUNG | 50297 | 2023-05-11 14:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+51 | BÙI THỊ ÚT | 11337 | 2023-05-13 06:35:00 | Lỗi thứ tự đường dùng |  | 
+52 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Insulin trộn, hỗn hợp | 
+53 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+54 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+55 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+56 | NGUYỄN VĂN TỔNG | 7759 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+57 | NGUYỄN VĂN TỔNG | 7759 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+58 | TRẦN THỊ NHÀN | 7242 | 2023-05-08 06:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+59 | TRẦN THANH HÀ | 40366 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+60 | THẠCH HOÀNG THẢO | 51576 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+61 | NGUYỄN VĂN TRẮNG | 53735 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+62 | PHẠM THỊ VÂN | 1368 | 2023-05-10 14:15:00 | Thiếu mã ICD10 hoặc chưa được training! | N-acetylcystein | 
+63 | PHẠM THỊ VÂN | 1368 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+64 | NGUYỄN VĂN THÉP | 46368 | 2023-05-08 15:57:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+65 | PHẠM VĂN PHƠ | 15220 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+66 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 06:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+67 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 06:15:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+68 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+69 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 05:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+70 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+71 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+72 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Sắt (III) hydroxyd polymaltose | 
+73 | NGUYỄN THỊ LIÊN | 1680 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+74 | ĐOÀN THỊ HIỀN | 9154 | 2023-05-12 06:05:00 | Cho thuốc sai giờ Trưa | Nifedipin Hasan 20 Retard | 
+75 | ĐOÀN THỊ HIỀN | 9154 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+76 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 05:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+77 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 05:45:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+78 | CAO THANH NHẪN | 13899 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+79 | BIỆN MINH TIỄN | 2461 | 2023-05-16 10:50:00 | Thiếu mã ICD10 hoặc chưa được training! | Hyoscin butylbromid | 
+80 | BIỆN MINH TIỄN | 2461 | 2023-05-08 06:25:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+1 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Insulin trộn, hỗn hợp | 
+2 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+3 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Thiếu mã ICD10 hoặc chưa được training! | Nicorandil | 
+4 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | Pecrandil 5 | 
+5 | HUỲNH THỊ NHANG | 60650 | 2023-05-15 10:50:00 | Thiếu mã ICD10 hoặc chưa được training! | Ketoprofen | 
+6 | VÕ THỊ BỈ | 1072 | 2023-05-12 10:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+7 | VÕ THỊ BỈ | 1072 | 2023-05-12 10:20:00 | Thiếu diễn tiến bệnh hoặc chưa được traning! | BRAPANTO | 
+8 | PHẠM THỊ NĂM | 7712 | 2023-05-09 14:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+9 | NGUYỄN VĂN HIỆN | 3238 | 2023-05-08 09:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+10 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Linezolid* | 
+11 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:50:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Doxycyclin | 
+12 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+13 | VÕ THỊ BẠCH TUYẾT | 4848 | 2023-05-10 10:33:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+14 | PHẠM THỊ MẤY | 4596 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+15 | VÕ AN THƯ | 59386 | 2023-05-08 10:35:00 | Thiếu mã ICD10 hoặc chưa được training! | Rosuvastatin | 
+16 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-05-08 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+17 | HỒ ĐÌNH NGUYÊN | 50291 | 2023-05-08 06:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+18 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+19 | NGUYỄN THỊ BẠCH TUYẾT | 18390 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+20 | NGÔ XUÂN TRƯỜNG | 30899 | 2023-05-08 06:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+21 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+22 | LƯU ĐỨC NGHIỆP | 16596 | 2023-05-08 16:39:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+23 | LỮ VĂN KHỞI | 5561 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+24 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 06:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+25 | LIÊU NGỌC HUỆ | 2708 | 2023-05-08 06:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+26 | LÂM TRỌNG HIẾU | 27115 | 2023-05-08 05:05:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+27 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+28 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+29 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+30 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Levosulpirid | 
+31 | ĐÀO THỊ HOA | 37110 | 2023-05-08 06:40:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+32 | LÝ THỊ QUẨN | 44034 | 2023-05-08 05:55:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+33 | ĐÀO VĂN CÔNG | 16795 | 2023-05-08 06:35:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+34 | NGUYỄN HỮU PHÚC | 24434 | 2023-05-08 06:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+35 | VÕ THỊ TÊ | 40084 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+36 | LÂM THỊ THANH THÚY | 12866 | 2023-05-08 06:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+37 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 05:25:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+38 | TRẦN TẤN ĐẠT | 33956 | 2023-05-08 05:25:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+39 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 06:20:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+40 | NGUYỄN THỊ CƯỜNG | 667 | 2023-05-08 06:20:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+41 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+42 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+43 | HUỲNH VĂN TÈO | 54444 | 2023-05-08 05:55:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+44 | TRẦN TRỌNG NHÂN | 5498 | 2023-05-11 15:40:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+45 | TRẦN TRỌNG NHÂN | 5498 | 2023-05-08 15:00:00 | Thiếu mã ICD10 hoặc chưa được training! | Levofloxacin | 
+46 | TRẦN VĂN CHƯƠNG | 3997 | 2023-05-08 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+47 | DƯƠNG THÀNH CÔNG | 751 | 2023-05-11 13:00:00 | Kiểm tra lại đường dùng |  | 
+48 | VŨ THỊ KIM CHÂU | 3396 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+49 | ĐỒNG HOÀNG LUÔNG | 57152 | 2023-05-10 14:40:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+50 | HỒ THỊ DUNG | 50297 | 2023-05-11 14:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+51 | BÙI THỊ ÚT | 11337 | 2023-05-13 06:35:00 | Lỗi thứ tự đường dùng |  | 
+52 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Insulin trộn, hỗn hợp | 
+53 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+54 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Trimetazidin | 
+55 | BÙI THỊ ÚT | 11337 | 2023-05-17 08:30:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+56 | NGUYỄN VĂN TỔNG | 7759 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+57 | NGUYỄN VĂN TỔNG | 7759 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+58 | TRẦN THỊ NHÀN | 7242 | 2023-05-08 06:00:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+59 | TRẦN THANH HÀ | 40366 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+60 | THẠCH HOÀNG THẢO | 51576 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+61 | NGUYỄN VĂN TRẮNG | 53735 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+62 | PHẠM THỊ VÂN | 1368 | 2023-05-10 14:15:00 | Thiếu mã ICD10 hoặc chưa được training! | N-acetylcystein | 
+63 | PHẠM THỊ VÂN | 1368 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+64 | NGUYỄN VĂN THÉP | 46368 | 2023-05-08 15:57:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+65 | PHẠM VĂN PHƠ | 15220 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+66 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 06:15:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+67 | NGUYỄN VĂN THỰC | 57827 | 2023-05-08 06:15:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+68 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 05:10:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+69 | TRẦN NGỌC TÀI | 15948 | 2023-05-08 05:10:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+70 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+71 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+72 | PHẠM THỊ ĐIỆP | 4021 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Sắt (III) hydroxyd polymaltose | 
+73 | NGUYỄN THỊ LIÊN | 1680 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+74 | ĐOÀN THỊ HIỀN | 9154 | 2023-05-12 06:05:00 | Cho thuốc sai giờ Trưa | Nifedipin Hasan 20 Retard | 
+75 | ĐOÀN THỊ HIỀN | 9154 | 2023-05-08 07:00:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Clopidogrel | 
+76 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 05:45:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+77 | ĐỖ THANH HÙNG | 2057 | 2023-05-08 05:45:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+78 | CAO THANH NHẪN | 13899 | 2023-05-08 05:05:00 | Chưa có trong dữ liệu training của thuốc và ICD10 | Acetylsalicylic acid (DL-lysin-acetylsalicylat) | 
+79 | BIỆN MINH TIỄN | 2461 | 2023-05-16 10:50:00 | Thiếu mã ICD10 hoặc chưa được training! | Hyoscin butylbromid | 
+80 | BIỆN MINH TIỄN | 2461 | 2023-05-08 06:25:00 | Có tờ điều trị không có tờ chăm sóc |  | 
+
+Số thứ tự | Tên bệnh nhân | Mã bệnh nhân | Thời gian | Chi tiết lỗi sai | Ghi chú | 
+ | 
