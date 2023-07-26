@@ -60,3 +60,14 @@ HUỲNH VĂN TÈO
  |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+NGUYỄN VĂN THỰC
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 97đ | BHYT (Thuốc cũ: Agifuros 20(Furosemid 20mg) | 56 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 100(Sitagliptin 100mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
