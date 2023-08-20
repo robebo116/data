@@ -195,3 +195,11 @@ TRẦN NGỌC TÀI
  |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí
+-------------------------------------------------------------------------
+VÕ THỊ TÊ
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 112 Viên | Giá: 97đ | BHYT (Thuốc cũ: Agifuros 20(Furosemid 20mg) | 112 Viên | Viện Phí)
+-------------------------------------------------------------------------
+BÙI THỊ HOA
