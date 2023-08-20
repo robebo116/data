@@ -336,3 +336,14 @@ PHAN HỮU NGỌC
  |>>> Đổi thuốc mới | VACOOMEZ 40(Omeprazol 40mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: AG-OME 20(Omeprazol 20mg) | 28 Viên | Viện Phí)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+ĐỒNG HOÀNG LUÔNG
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 14 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 97đ | BHYT (Thuốc cũ: Agifuros 20(Furosemid 20mg) | 56 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | PFERTZEL(Acetylsalicylic acid+ Clopidogrel 75mg + 75mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Xuthapirid(Levosulpirid 25mg) | 56 Viên | Viện Phí
