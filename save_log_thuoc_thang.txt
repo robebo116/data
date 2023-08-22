@@ -146,11 +146,21 @@ HUỲNH THỊ NHANG
  |==> Cho lại thuốc cũ | Deslora(Desloratadin 5mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT
 -------------------------------------------------------------------------
-HUỲNH THỊ NHANG
-*Pecrandil 5(Nicorandil 5mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
- |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
- |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
- |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+
+-------------------------------------------------------------------------
+NGUYỄN TRUNG NGHĨA
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 14 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
- |==> Cho lại thuốc cũ | Deslora(Desloratadin 5mg) | 56 Viên | BHYT
- |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Mucosta  Tablets 100mg(Rebamipid 100mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN BÁ NGỌC
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | STADNEX 40 CAP(Esomeprazol 40mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Olanxol(Olanzapin 10mg) 28 Viên | Giá: 2457đ | Viện phí (Thuốc cũ: Nykob 5mg(Olanzapin 5mg) | 28 Viên | Viện Phí)
