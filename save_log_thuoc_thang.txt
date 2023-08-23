@@ -260,3 +260,10 @@ NGUYỄN THỊ BẠCH TUYẾT
  |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | STADNEX 40 CAP(Esomeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ LIÊN
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+*Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí
