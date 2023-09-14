@@ -298,3 +298,13 @@ LÝ NGỌC PHƯỢNG
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
  |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
  |==> Cho lại thuốc cũ | STADNEX 40 CAP(Esomeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+ĐOÀN THỊ HIỀN
+ |==> Cho lại thuốc cũ | Valsgim 80(Valsartan 80mg) | 112 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | STADNEX 40 CAP(Esomeprazol 40mg) | 28 Viên | BHYT
