@@ -349,3 +349,13 @@ PHẠM THỊ ĐIỆP
  |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN CHÓI
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Etivas 20(Simvastatin + ezetimibe 20mg; 10mg) 392 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: Etivas 10(Simvastatin + ezetimibe 10mg; 10mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Nanokine 2000 IU(Erythropoietin 2000UI) | 28 Lọ | BHYT
+ |==> Cho lại thuốc cũ | Heparin- Belmed(Heparin (natri) 5000UI/ml) | 56 ml | Viện Phí
+ |==> Cho lại thuốc cũ | NATRI CLORID 0,9%(Natri clorid 0,9% 500ml) | 28 Chai | BHYT
+ |==> Cho lại thuốc cũ | Sodium Chloride 0.9% 1000ml(Natri clorid 0,9%; 1000ml) | 28 Chai | Viện Phí
