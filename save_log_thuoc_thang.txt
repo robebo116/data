@@ -510,3 +510,16 @@ PHẠM THỊ NĂM
  |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ BẠCH TUYẾT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | STADNEX 40 CAP(Esomeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIMOTI 10(Domperidon 10mg) | 84 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Nanokine 2000 IU(Erythropoietin 2000UI) | 56 Lọ | BHYT
+ |==> Cho lại thuốc cũ | NATRI CLORID 0,9%(Natri clorid 0,9% 500ml) | 28 Chai | BHYT
+ |==> Cho lại thuốc cũ | Sodium Chloride 0.9% 1000ml(Natri clorid 0,9%; 1000ml) | 28 Chai | Viện Phí
+ |==> Cho lại thuốc cũ | Heparin- Belmed(Heparin (natri) 5000UI/ml) | 28 ml | Viện Phí
