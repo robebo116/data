@@ -523,3 +523,11 @@ NGUYỄN THỊ BẠCH TUYẾT
  |==> Cho lại thuốc cũ | NATRI CLORID 0,9%(Natri clorid 0,9% 500ml) | 28 Chai | BHYT
  |==> Cho lại thuốc cũ | Sodium Chloride 0.9% 1000ml(Natri clorid 0,9%; 1000ml) | 28 Chai | Viện Phí
  |==> Cho lại thuốc cũ | Heparin- Belmed(Heparin (natri) 5000UI/ml) | 28 ml | Viện Phí
+-------------------------------------------------------------------------
+CAO THANH NHẪN
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
