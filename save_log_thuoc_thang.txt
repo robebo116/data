@@ -1023,3 +1023,9 @@ NGUYỄN THỊ XẾP
  |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Atorvastatin 10(Atorvastatin 10mg) 28 Viên | Giá: 119đ | BHYT (Thuốc cũ: AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+PHAN THỊ MƯỜI
+ |>>> Đổi thuốc mới | Pecrandil 5(Nicorandil 5mg) 28 Viên | Giá: 1764đ | BHYT (Thuốc cũ: Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Atorvastatin 10(Atorvastatin 10mg) 28 Viên | Giá: 119đ | BHYT (Thuốc cũ: AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT)
