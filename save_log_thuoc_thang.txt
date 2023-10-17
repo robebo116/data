@@ -842,3 +842,44 @@ PHẠM VĂN HÙNG
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
  |==> Cho lại thuốc cũ | Mezamazol(Thiamazol 5mg) | 14 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ LIÊN
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+*AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+NGUYỄN THỊ GÁI LỚN
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+*AGIVASTAR 40(Pravastatin 40mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Donox 20 mg(Isosorbid (dinitrat hoặcmononitrat) 20mg) 28 Viên | Giá: 1450đ | Viện phí (Thuốc cũ: Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+MAI HÙNG MẠNH
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Donox 20 mg(Isosorbid (dinitrat hoặcmononitrat) 20mg) 28 Viên | Giá: 1450đ | Viện phí (Thuốc cũ: Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM VĂN MẠNH
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 28 Viên | BHYT
+*AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ MẤY
+*Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | Deslora(Desloratadin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+*AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
