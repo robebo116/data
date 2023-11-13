@@ -1149,3 +1149,27 @@ LÊ THÀNH TRUNG
  |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 56 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+ĐỖ THANH HÙNG
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+NGUYỄN THỊ KHỊCH
+ |==> Cho lại thuốc cũ | AMDEPIN DUO(Amlodipin+ Atorvastatin 5mg + 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcium Hasan 250mg(Calci carbonat+ calci gluconolactat 150mg + 1470mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | GIMFASTNEW 120(Fexofenadin 120mg) 56 Viên | Giá: 2500đ | Viện phí (Thuốc cũ: Telfor 60(Fexofenadin 60mg) | 56 Viên | BHYT)
+-------------------------------------------------------------------------
+TRẦN THỊ NHÀN
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 84 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 84 Viên | Viện Phí)
