@@ -1391,3 +1391,48 @@ VÕ THỊ TÊ
  |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
 -------------------------------------------------------------------------
 PHAN THANH TUẤN
+-------------------------------------------------------------------------
+NGUYỄN VĂN TRẮNG
+-------------------------------------------------------------------------
+VÕ THỊ ÁNH TUYẾT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Atorvastatin 10(Atorvastatin 10mg) 28 Viên | Giá: 119đ | BHYT (Thuốc cũ: Etivas 10(Simvastatin + ezetimibe 10mg; 10mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+VÕ THỊ BẠCH TUYẾT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ BẠCH TUYẾT
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIMOTI 10(Domperidon 10mg) | 84 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 56 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí)
+-------------------------------------------------------------------------
+PHẠM THỊ VÂN
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Mezamazol(Thiamazol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Atorvastatin 10(Atorvastatin 10mg) 28 Viên | Giá: 119đ | BHYT (Thuốc cũ: Etivas 10(Simvastatin + ezetimibe 10mg; 10mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+NGUYỄN THỊ XẾP
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
