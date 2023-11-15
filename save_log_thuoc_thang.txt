@@ -1436,3 +1436,20 @@ NGUYỄN THỊ XẾP
  |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ TRIÊN
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+NGUYỄN THỊ NÊ
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 56 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 56 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 56 Viên | Viện Phí)
+-------------------------------------------------------------------------
+PHẠM THỊ HOÀI THƯƠNG
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 28 Viên | Giá: 210đ | BHYT (Thuốc cũ: ZHEKOF-80(Telmisartan 80mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
