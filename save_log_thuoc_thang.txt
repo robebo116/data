@@ -1201,3 +1201,43 @@ LÊ THÀNH ĐẠT
  |==> Cho lại thuốc cũ | Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 84 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 84 Viên | Viện Phí)
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+PHAN VĂN CỎ
+-------------------------------------------------------------------------
+TRẦN VĂN CUỘC
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 14 Viên | BHYT
+ |==> Cho lại thuốc cũ | Valsgim 80(Valsartan 80mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+PHẠM THỊ ĐIỆP
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN CHÓI
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Etivas 20(Simvastatin + ezetimibe 20mg; 10mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: Etivas 10(Simvastatin + ezetimibe 10mg; 10mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+TRẦN THANH HÀ
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) 28 Viên | Giá: 5500đ | Viện phí (Thuốc cũ: PYMEFERON B9(Sắt sulfat + acid folic 50mg + 350mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+*Etivas 10(Simvastatin + ezetimibe 10mg; 10mg) | 28 Viên | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+TRẦN VĂN ĐƯỢC
