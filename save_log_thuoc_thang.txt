@@ -1516,3 +1516,14 @@ HỨA THẾ HÙNG
  |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 Viên | Giá: 68đ | BHYT (Thuốc cũ: Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | Viện Phí)
  |>>> Đổi thuốc mới | Sterolow 20(Rosuvastatin 20mg) 28 Viên | Giá: 1000đ | BHYT (Thuốc cũ: ATORPA 30(Atorvastatin 30mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+PHẠM THỊ ĐIỆP
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 56 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
