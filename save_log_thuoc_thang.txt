@@ -1789,3 +1789,20 @@ LIÊU NGỌC HUỆ
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ THÀNH THẮNG
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 14 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Vincerol 4mg(Acenocoumarol 4mg) 14 Viên | Giá: 480đ | BHYT (Thuốc cũ: AZENMAROL 1(Acenocoumarol 1mg) | 14 Viên | BHYT)
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: Sterolow 20(Rosuvastatin 20mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | ZLATKO-25(Sitagliptin 25mg) 28 Viên | Giá: 6000đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+PHAN HỮU NGỌC
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
