@@ -1748,3 +1748,26 @@ NGUYỄN VĂN TRẮNG
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+HUỲNH THỊ THU
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ VÂN
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Mezamazol(Thiamazol 5mg) 28 Viên | Giá: 399đ | Viện phí (Thuốc cũ: Mezamazol(Thiamazol 5mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | ZLATKO-25(Sitagliptin 25mg) 28 Viên | Giá: 6000đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+NGUYỄN THỊ XẾP
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 56 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT)
