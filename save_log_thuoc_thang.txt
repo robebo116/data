@@ -1952,3 +1952,18 @@ PHẠM THỊ NĂM
  |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 56 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT)
  |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
  |>>> Đổi thuốc mới | TRANAGLIPTIN 5(Linagliptin 5mg) 28 Viên | Giá: 10000đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+TRẦN THỊ NHÀN
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 56 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT)
+-------------------------------------------------------------------------
+NGUYỄN THỊ KHỊCH
+ |==> Cho lại thuốc cũ | AMDEPIN DUO(Amlodipin+ Atorvastatin 5mg + 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | TRANAGLIPTIN 5(Linagliptin 5mg) 28 Viên | Giá: 10000đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcium Hasan 250mg(Calci carbonat+ calci gluconolactat 150mg + 1470mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
