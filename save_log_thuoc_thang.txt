@@ -1992,3 +1992,37 @@ TRỊNH MINH THÁI
 -------------------------------------------------------------------------
 HỒ ĐÌNH NGUYÊN
  |==> Cho lại thuốc cũ | LIPAGIM 160(Fenofibrat 160mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+LÂM BÍCH PHƯỢNG
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Valsgim 80(Valsartan 80mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Tunadimet(Clopidogrel 75mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: Plavix 75mg(Clopidogrel 75mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: CLOZOTEL 20(Rosuvastatin 20mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | MYLENFA II(Magnesi hydroxyd + nhôm hydroxyd + simethicon 200mg + 200mg + 20mg) 56 Viên | Giá: 504đ | Viện phí (Thuốc cũ: Alumag-S(Magnesi hydroxyd + nhôm hydroxyd + simethicon 800,4mg; 4596mg; 80mg) | 56 Gói | Viện Phí)
+-------------------------------------------------------------------------
+NGUYỄN THỊ NÊ
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT)
+*Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 56 Viên | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+BÙI THỊ HOA
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Agifuros 20(Furosemid 20mg) 56 Viên | Giá: 250đ | Viện phí (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+PHẠM THỊ HOÀI THƯƠNG
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 56 Viên | BHYT
+*AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+*Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+NGUYỄN THỊ TRIÊN
+ |>>> Đổi thuốc mới | TRANAGLIPTIN 5(Linagliptin 5mg) 28 Viên | Giá: 10000đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+*Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
