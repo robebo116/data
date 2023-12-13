@@ -1771,3 +1771,21 @@ NGUYỄN THỊ XẾP
  |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
  |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 56 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 56 Viên | BHYT)
+-------------------------------------------------------------------------
+NGUYỄN THỊ CƯỜNG
+-------------------------------------------------------------------------
+LÂM THỊ THANH THÚY
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Pivineuron(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+LIÊU NGỌC HUỆ
+ |==> Cho lại thuốc cũ | SaVi Ivabradine 5(Ivabradin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VASTAREL MR TAB 35MG(Trimetazidin 35mg) | 56 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Agirovastin 10(Rosuvastatin 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: Atorvastatin 10(Atorvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
