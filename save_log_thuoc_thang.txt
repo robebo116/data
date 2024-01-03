@@ -2107,3 +2107,44 @@ PHẠM VĂN HÙNG
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
  |==> Cho lại thuốc cũ | Mezamazol(Thiamazol 5mg) | 15 Viên | Viện Phí
  |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ LIÊN
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 56 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | AGIVASTAR 40(Pravastatin 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ GÁI LỚN
+ |>>> Đổi thuốc mới | SaVi Valsartan 160(Valsartan 160mg) 56 Viên | Giá: 4290đ | BHYT (Thuốc cũ: Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Pecrandil 5(Nicorandil 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+MAI HÙNG MẠNH
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | SaVi Valsartan 160(Valsartan 160mg) 56 Viên | Giá: 4290đ | BHYT (Thuốc cũ: Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Betaloc Zok 50mg(Metoprolol 50mg) 28 Viên | Giá: 5490đ | Viện phí (Thuốc cũ: SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Pecrandil 5(Nicorandil 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ MẤY
+ |>>> Đổi thuốc mới | LIPAGIM 160(Fenofibrat 160mg) 28 Viên | Giá: 490đ | Viện phí (Thuốc cũ: LIPAGIM 160(Fenofibrat 160mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | SaVi Valsartan 160(Valsartan 160mg) 28 Viên | Giá: 4290đ | BHYT (Thuốc cũ: Telmisartan(Telmisartan 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+PHAN THỊ MƯỜI
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 56 Viên | BHYT
