@@ -2314,3 +2314,27 @@ NGUYỄN HỮU PHÚC
  |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
  |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: TRANAGLIPTIN 5(Linagliptin 5mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+LÊ THÀNH ĐẠT
+ |>>> Đổi thuốc mới | Kavasdin 10(Amlodipin 10mg) 28 Viên | Giá: 335đ | Viện phí (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Telmisartan(Telmisartan 40mg) 56 Viên | Giá: 272đ | Viện phí (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Ivabradine 5(Ivabradin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Pecrandil 5(Nicorandil 5mg) 28 Viên | Giá: 1764đ | BHYT (Thuốc cũ: Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+LIÊU NGỌC HUỆ
+ |==> Cho lại thuốc cũ | SaVi Ivabradine 5(Ivabradin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VASTAREL MR TAB 35MG(Trimetazidin 35mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN BÁ NGỌC
+ |>>> Đổi thuốc mới | Kavasdin 10(Amlodipin 10mg) 28 Viên | Giá: 335đ | Viện phí (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Telmisartan(Telmisartan 40mg) 28 Viên | Giá: 272đ | Viện phí (Thuốc cũ: Telmisartan(Telmisartan 40mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Betaloc Zok 50mg(Metoprolol 50mg) 28 Viên | Giá: 5490đ | Viện phí (Thuốc cũ: SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
