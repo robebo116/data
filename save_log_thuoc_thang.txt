@@ -2396,3 +2396,15 @@ TRẦN THỊ NHÀN
  |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Telmisartan(Telmisartan 40mg) 56 Viên | Giá: 272đ | Viện phí (Thuốc cũ: Telmisartan(Telmisartan 40mg) | 56 Viên | BHYT)
  |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ NÊ
+ |==> Cho lại thuốc cũ | Nicarlol 5(Nebivolol 5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Telmisartan(Telmisartan 40mg) 28 Viên | Giá: 272đ | Viện phí (Thuốc cũ: Losartan(Losartan 50mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+HUỲNH VĂN TÈO
+-------------------------------------------------------------------------
+NGUYỄN THỊ TRIÊN
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: TRANAGLIPTIN 5(Linagliptin 5mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
