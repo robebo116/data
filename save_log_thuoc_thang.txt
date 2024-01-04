@@ -2347,3 +2347,11 @@ PHAN HỮU NGỌC
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+LÂM THỊ THANH THÚY
+ |>>> Đổi thuốc mới | Kavasdin 10(Amlodipin 10mg) 28 Viên | Giá: 335đ | Viện phí (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Telmisartan(Telmisartan 40mg) 56 Viên | Giá: 272đ | Viện phí (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+*SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Pivineuron(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) 28 Viên | Giá: 1800đ | Viện phí (Thuốc cũ: Pivineuron(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
