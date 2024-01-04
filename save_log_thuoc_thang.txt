@@ -2355,3 +2355,22 @@ LÂM THỊ THANH THÚY
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
  |>>> Đổi thuốc mới | Pivineuron(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) 28 Viên | Giá: 1800đ | Viện phí (Thuốc cũ: Pivineuron(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 28 Viên | BHYT)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+NGUYỄN THỊ BAO
+-------------------------------------------------------------------------
+LÂM TRỌNG HIẾU
+ |>>> Đổi thuốc mới | Kavasdin 10(Amlodipin 10mg) 28 Viên | Giá: 335đ | Viện phí (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Telmisartan(Telmisartan 40mg) 56 Viên | Giá: 272đ | Viện phí (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+*SaViProlol 2,5(Bisoprolol 2,5mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ NĂM
+ |>>> Đổi thuốc mới | Betaloc Zok 50mg(Metoprolol 50mg) 28 Viên | Giá: 5490đ | Viện phí (Thuốc cũ: SaViProlol 2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPAGIM 160(Fenofibrat 160mg) 28 Viên | Giá: 490đ | Viện phí (Thuốc cũ: LIPAGIM 160(Fenofibrat 160mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: TRANAGLIPTIN 5(Linagliptin 5mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT
