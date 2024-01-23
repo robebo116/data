@@ -2719,3 +2719,32 @@ NGUYỄN BÁ NGỌC
  |==> Cho lại thuốc cũ | HEMAFETIMAX(Sắt fumarat + acid folic 200mg + 1mg) | 28 Viên | Viện Phí
 -------------------------------------------------------------------------
 LÝ NGỌC PHƯỢNG
+-------------------------------------------------------------------------
+LÝ THỊ QUẨN
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 13 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 13 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 56 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Telmisartan(Telmisartan 40mg) | 56 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 56 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+VÕ THỊ TÊ
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calcitriol DHT 0.5mcg(Calcitriol 0.5mcg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 56 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | CLOCARDIGEL 75(Clopidogrel 75mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+PHAN THANH TUẤN
+-------------------------------------------------------------------------
+THẠCH HOÀNG THẢO
+-------------------------------------------------------------------------
+NGUYỄN VĂN TRẮNG
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Egilok(Metoprolol 100mg) 28 Viên | Giá: 5775đ | Viện phí (Thuốc cũ: NICARLOL 5(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) 56 Viên | Giá: 390đ | BHYT (Thuốc cũ: Agilosart-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT)
