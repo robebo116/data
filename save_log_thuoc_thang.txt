@@ -2748,3 +2748,47 @@ NGUYỄN VĂN TRẮNG
  |==> Cho lại thuốc cũ | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
  |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+VÕ THỊ ÁNH TUYẾT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+VÕ THỊ BẠCH TUYẾT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 56 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: ZLATKO-25(Sitagliptin 25mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | CLOCARDIGEL 75(Clopidogrel 75mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+NGUYỄN THỊ BẠCH TUYẾT
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 43 Viên | BHYT
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Domperidon(Domperidon 10mg) 84 Viên | Giá: 58đ | BHYT (Thuốc cũ: AGIMOTI 10(Domperidon 10mg) | 84 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 56 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 56 Viên | Viện Phí
+-------------------------------------------------------------------------
+HUỲNH THỊ THU
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Telzid 40/12.5(Telmisartan + hydroclorothiazid 40mg + 12,5mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ VÂN
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: AGIVASTAR 40(Pravastatin 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg + 200UI) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Mezamazol(Thiamazol 5mg) | 28 Viên | Viện Phí
+*Thyperopa forte(Methyldopa 500mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 15 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Zlatko-100(Sitagliptin 100mg) | 15 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | CLOCARDIGEL 75(Clopidogrel 75mg) | 28 Viên | Viện Phí
+-------------------------------------------------------------------------
+NGUYỄN THỊ XẾP
+ |==> Cho lại thuốc cũ | Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 56 Viên | Giá: 285đ | BHYT (Thuốc cũ: Agirovastin 10(Rosuvastatin 10mg) | 56 Viên | BHYT)
