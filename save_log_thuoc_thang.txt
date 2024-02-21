@@ -3382,3 +3382,31 @@ LÝ NGỌC PHƯỢNG
  |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 28 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí)
  |==> Cho lại thuốc cũ | Mucosta  Tablets 100mg(Rebamipid 100mg) | 56 Viên | Viện Phí
  |==> Cho lại thuốc cũ | STADNEX 40 CAP(Esomeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+LÝ THỊ QUẨN
+ |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 28 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 112 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT)
+-------------------------------------------------------------------------
+PHAN THANH TUẤN
+-------------------------------------------------------------------------
+NGUYỄN VĂN TRẮNG
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 viên | Giá: 340đ | BHYT (Thuốc cũ: ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Thyperopa forte(Methyldopa 500mg) 28 Viên | Giá: 1890đ | BHYT (Thuốc cũ: Thyperopa forte(Methyldopa 500mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+NGUYỄN THỊ BẠCH TUYẾT
+ |>>> Đổi thuốc mới | Thyperopa forte(Methyldopa 500mg) 42 Viên | Giá: 1890đ | BHYT (Thuốc cũ: Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Lansoprazol(Lansoprazol 30mg) 28 Viên | Giá: 275đ | BHYT (Thuốc cũ: VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Domperidon(Domperidon 10mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 56 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 56 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT
