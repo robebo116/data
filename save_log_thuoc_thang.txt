@@ -3410,3 +3410,30 @@ NGUYỄN THỊ BẠCH TUYẾT
  |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 56 Viên | BHYT
  |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 56 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 56 Viên | Viện Phí)
  |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+VÕ THỊ ÁNH TUYẾT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 84 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT)
+ |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 28 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+VÕ THỊ BẠCH TUYẾT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 84 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT)
+ |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 28 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 14 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Tunadimet(Clopidogrel 75mg) 28 Viên | Giá: 272đ | BHYT (Thuốc cũ: CLOCARDIGEL 75(Clopidogrel 75mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+HUỲNH THỊ THU
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ XẾP
+ |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 28 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Fefasdin 60(Fexofenadin 60mg) | 56 Viên | BHYT
