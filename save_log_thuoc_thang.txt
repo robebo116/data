@@ -3437,3 +3437,13 @@ NGUYỄN THỊ XẾP
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Fefasdin 60(Fexofenadin 60mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ VÂN
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) 28 Viên | Giá: 1000đ | Viện phí (Thuốc cũ: Ferrola(Sắt sulfat + acid folic 37mg; 0,8mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Mezamazol(Thiamazol 5mg) 28 Viên | Giá: 420đ | BHYT (Thuốc cũ: Mezamazol(Thiamazol 5mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Tunadimet(Clopidogrel 75mg) 28 Viên | Giá: 272đ | BHYT (Thuốc cũ: CLOCARDIGEL 75(Clopidogrel 75mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT
