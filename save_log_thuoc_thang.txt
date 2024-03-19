@@ -3585,3 +3585,34 @@ NGUYỄN TRUNG NGHĨA
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN BÁ NGỌC
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 28 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Betaloc Zok 50mg(Metoprolol 50mg) 14 Viên | Giá: 5490đ | Viện phí (Thuốc cũ: Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 14 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+ĐẶNG THỊ PHỤNG
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+LÝ THỊ QUẨN
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 56 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIVASTAR 40(Pravastatin 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+THẠCH HOÀNG THẢO
+-------------------------------------------------------------------------
+VÕ THỊ ÁNH TUYẾT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
