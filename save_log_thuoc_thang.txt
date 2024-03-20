@@ -3682,3 +3682,16 @@ BÙI THỊ HOA
  |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+CAO THANH NHẪN
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 14 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 14 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Nebilet Tab 5mg(Nebivolol 5mg) 28 Viên | Giá: 7600đ | Viện phí (Thuốc cũ: Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 28 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | VACOOMEZ 40(Omeprazol 40mg) 28 Viên | Giá: 274đ | BHYT (Thuốc cũ: AG-OME 20(Omeprazol 20mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+HỒ ĐÌNH NGUYÊN
+ |==> Cho lại thuốc cũ | LIPAGIM 160(Fenofibrat 160mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Nebilet Tab 5mg(Nebivolol 5mg) 28 Viên | Giá: 7600đ | Viện phí (Thuốc cũ: Betaloc Zok 25mg(Metoprolol 23,75mg (tương đương với 25mg metoprolol tartrat hoặc 19,5mg metoprolol)) | 28 Viên | BHYT)
