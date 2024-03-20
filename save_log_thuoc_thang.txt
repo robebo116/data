@@ -3755,3 +3755,20 @@ HUỲNH VĂN TÈO
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHAN HỮU NGỌC
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 28 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Nebilet Tab 5mg(Nebivolol 5mg) 28 Viên | Giá: 7600đ | Viện phí (Thuốc cũ: Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 56 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 56 Viên | Viện Phí)
+-------------------------------------------------------------------------
+LÊ THÀNH THẮNG
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 14 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 10(Amlodipin 10mg) | 14 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 28 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Vincerol 1mg(Acenocoumarol 1mg) | 20 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 56 Viên | Giá: 525đ | BHYT (Thuốc cũ: HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 56 Viên | Viện Phí)
