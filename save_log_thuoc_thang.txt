@@ -3972,3 +3972,31 @@ TRẦN VĂN ĐƯỢC
  |>>> Đổi thuốc mới | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 Viên | Giá: 63đ | Viện phí (Thuốc cũ: Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT)
  |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 14 Viên | BHYT
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ CƯỜNG
+ |==> Cho lại thuốc cũ | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Betaloc Zok 25mg(Metoprolol 25mg) 28 Viên | Giá: 4389đ | Viện phí (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 Viên | Giá: 63đ | Viện phí (Thuốc cũ: Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN TỔNG
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 Viên | Giá: 63đ | Viện phí (Thuốc cũ: Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Betaloc Zok 25mg(Metoprolol 25mg) 14 Viên | Giá: 4389đ | Viện phí (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 14 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+HUỲNH VĂN TÈO
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Betaloc Zok 50mg(Metoprolol 50mg) 28 Viên | Giá: 5490đ | Viện phí (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
