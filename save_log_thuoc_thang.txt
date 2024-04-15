@@ -4055,3 +4055,27 @@ LÂM THỊ THANH THÚY
  |>>> Đổi thuốc mới | Cosyndo B(Vitamin B1 + B6 + B12 175mg + 175mg + 125mcg) 28 Viên | Giá: 1197đ | Viện phí (Thuốc cũ: Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 28 Viên | BHYT)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 112 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ THÀNH ĐẠT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Betaloc Zok 25mg(Metoprolol 25mg) 14 Viên | Giá: 4389đ | Viện phí (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 14 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Pecrandil 5(Nicorandil 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+BIỆN MINH TIỂN
+ |==> Cho lại thuốc cũ | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Cosyndo B(Vitamin B1 + B6 + B12 175mg + 175mg + 125mcg) 28 Viên | Giá: 1197đ | Viện phí (Thuốc cũ: Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+HỨA THẾ HÙNG
+ |==> Cho lại thuốc cũ | Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí
+*AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |>>> Đổi thuốc mới | ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 Viên | Giá: 63đ | Viện phí (Thuốc cũ: Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
