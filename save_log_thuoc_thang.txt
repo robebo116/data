@@ -4638,3 +4638,31 @@ LÂM THỊ THANH THÚY
  |>>> Đổi thuốc mới | MitivitB(Vitamin B1 + B6 + B12 125mg + 125mg + 500mcg) 28 Viên | Giá: 2000đ | Viện phí (Thuốc cũ: Cosyndo B(Vitamin B1 + B6 + B12 175mg + 175mg + 125mcg) | 28 Viên | Viện Phí)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 112 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ CƯỜNG
+ |==> Cho lại thuốc cũ | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 viên | Giá: 340đ | BHYT (Thuốc cũ: ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Danapha-Rosu 20(Rosuvastatin 20 mg) 28 Viên | Giá: 810đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN HỮU PHÚC
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 56 Viên | Giá: 200đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Danapha-Rosu 20(Rosuvastatin 20 mg) 56 Viên | Giá: 810đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN THỰC
+ |==> Cho lại thuốc cũ | Basaglar(Insulin analog tác dụng chậm, kéo dài (Glargine, Detemir, Degludec) 300U/3ml) | 1 Bút tiêm | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 56 Viên | Giá: 200đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Betaloc Zok 50mg(Metoprolol 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Danapha-Rosu 20(Rosuvastatin 20 mg) 28 Viên | Giá: 810đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Pecrandil 5(Nicorandil 5mg) | 56 Viên | BHYT
