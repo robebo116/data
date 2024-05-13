@@ -4503,3 +4503,25 @@ TRỊNH MINH THÁI
  |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
  |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+TRẦN THỊ NHÀN
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 56 Viên | Giá: 200đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 28 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN ĐÈN
+ |==> Cho lại thuốc cũ | Auclatyl 500mg/125mg(Amoxicilin + acid clavulanic 500mg + 125mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+BIỆN MINH TIỂN
+ |==> Cho lại thuốc cũ | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Danapha-Rosu 20(Rosuvastatin 20 mg) 56 Viên | Giá: 810đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | MitivitB(Vitamin B1 + B6 + B12 125mg + 125mg + 500mcg) 28 Viên | Giá: 2000đ | Viện phí (Thuốc cũ: Cosyndo B(Vitamin B1 + B6 + B12 175mg + 175mg + 125mcg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
