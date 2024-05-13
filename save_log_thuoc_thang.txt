@@ -4449,3 +4449,25 @@ PHAN HỮU NGỌC
  |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+LIÊU NGỌC HUỆ
+ |>>> Đổi thuốc mới | Agicetam 800(Piracetam 800mg) 56 Viên | Giá: 399đ | BHYT (Thuốc cũ: AGICETAM 1200(Piracetam 1200mg) | 56 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 14 Viên | Giá: 133đ | BHYT (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 14 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 28 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Trimpol MR(Trimetazidin 35mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+DƯƠNG THÀNH CÔNG
+-------------------------------------------------------------------------
+HỒ THỊ DUNG
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Nebilet Tab 5mg(Nebivolol 5mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | AGILOSART-H 50/12,5(Losartan + hydroclorothiazid 50mg + 12,5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIFUROS(Furosemid 40mg) 56 Viên | Giá: 92đ | BHYT (Thuốc cũ: AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) 28 viên | Giá: 340đ | BHYT (Thuốc cũ: ASPIRIN 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 28 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
