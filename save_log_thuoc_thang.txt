@@ -5306,3 +5306,10 @@ PHẠM VĂN HÙNG
  |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
 *AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+VÕ THỊ KHÂU
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
