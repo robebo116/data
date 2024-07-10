@@ -6081,3 +6081,15 @@ NGUYỄN THỊ XẾP
  |==> Cho lại thuốc cũ | Fefasdin 60(Fexofenadin 60mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ VĂN TUÔNG
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Methyl prednisolon 4(Methyl prednisolon 4mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Gabapentin(Gabapentin 300mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Myopain 50(Tolperison 50mg) | 56 viên | BHYT
+ |==> Cho lại thuốc cũ | PARTAMOL TAB.(Paracetamol (acetaminophen) 500mg) | 84 Viên | BHYT
