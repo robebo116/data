@@ -5910,3 +5910,51 @@ NGUYỄN THỊ HÒA
  |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 84 Viên | BHYT
  |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN HIỆN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+-------------------------------------------------------------------------
+PHẠM VĂN HÙNG
+ |==> Cho lại thuốc cũ | Mezamazol(Thiamazol 5mg) | 14 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 56 Viên | Giá: 525đ | BHYT (Thuốc cũ: Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+-------------------------------------------------------------------------
+VÕ THỊ KHÂU
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ LIÊN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 56 Viên | Giá: 525đ | BHYT (Thuốc cũ: Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM VĂN MẠNH
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) 28 Viên | Giá: 525đ | BHYT (Thuốc cũ: Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ MẤY
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+ |==> Cho lại thuốc cũ | Ramipril Cap DWP 2,5mg(Ramipril 2,5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Nifedipin Hasan 20 Retard(Nifedipin 20mg) 56 Viên | Giá: 504đ | BHYT (Thuốc cũ: Nifehexal 30 LA(Nifedipin 30mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Betaloc Zok 25mg(Metoprolol 23,75mg (tương đương với 25mg metoprolol tartrat hoặc 19,5mg metoprolol)) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
