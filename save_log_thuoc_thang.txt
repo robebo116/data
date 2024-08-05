@@ -6093,3 +6093,20 @@ LÊ VĂN TUÔNG
  |==> Cho lại thuốc cũ | Gabapentin(Gabapentin 300mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Myopain 50(Tolperison 50mg) | 56 viên | BHYT
  |==> Cho lại thuốc cũ | PARTAMOL TAB.(Paracetamol (acetaminophen) 500mg) | 84 Viên | BHYT
+-------------------------------------------------------------------------
+BÙI THỊ HOA
+ |==> Cho lại thuốc cũ | SaVi Pantoprazole 40(Pantoprazol 40mg) | 28 Viên | BHYT
+*Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 14 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHAN HỮU NGỌC
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+*Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
