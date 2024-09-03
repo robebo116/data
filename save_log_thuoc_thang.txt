@@ -6794,3 +6794,11 @@ TRẦN TRỌNG NHÂN
  |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Betaloc Zok 25mg(Metoprolol 23,75mg (tương đương với 25mg metoprolol tartrat hoặc 19,5mg metoprolol)) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN BÁ NGỌC
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIVASTAR 40(Pravastatin 40mg) | 23 Viên | BHYT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 5 Viên | Giá: 285đ | BHYT (Thuốc cũ: Hypravas 40(Pravastatin 40mg) | 5 Viên | Viện Phí)
