@@ -6891,3 +6891,15 @@ HUỲNH THỊ THU
  |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Vigahom(Sắt gluconat + mangan gluconat + đồng gluconat 431,68 mg, 11,65 mg, 5mg) | 28 Ống | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ XẾP
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Fefasdin 60(Fexofenadin 60mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ VĂN ÚT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Vigahom(Sắt gluconat + mangan gluconat + đồng gluconat 431,68 mg, 11,65 mg, 5mg) | 56 Ống | BHYT
