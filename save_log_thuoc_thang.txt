@@ -7440,3 +7440,12 @@ LÊ CÂN
  |==> Cho lại thuốc cũ | Nifedipin Hasan 20 Retard(Nifedipin 20mg) | 84 Viên | BHYT
 -------------------------------------------------------------------------
 CHÂU THỊ GẤU
+-------------------------------------------------------------------------
+CHÂU THỊ GẤU
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VASTAREL MR TAB 35MG(Trimetazidin 35mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Apitim 10(Amlodipin 10mg) | 28 viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: TRANAGLIPTIN 5(Linagliptin 5mg) | 28 Viên | Viện Phí)
