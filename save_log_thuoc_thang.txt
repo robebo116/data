@@ -7426,3 +7426,15 @@ LÊ THÀNH THẮNG
  |==> Cho lại thuốc cũ | Vincerol 1mg(Acenocoumarol 1mg) | 14 Viên | BHYT
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
 *Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+LÊ CÂN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT
+ |>>> Đổi thuốc mới | Tunadimet(Clopidogrel 75mg) 28 Viên | Giá: 272đ | BHYT (Thuốc cũ: Plavix 75mg(Clopidogrel 75mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: Vaslor-40(Atorvastatin 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Imidu® 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nifedipin Hasan 20 Retard(Nifedipin 20mg) | 84 Viên | BHYT
