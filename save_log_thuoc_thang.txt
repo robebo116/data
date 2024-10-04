@@ -7449,3 +7449,13 @@ CHÂU THỊ GẤU
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: TRANAGLIPTIN 5(Linagliptin 5mg) | 28 Viên | Viện Phí)
+-------------------------------------------------------------------------
+NGUYỄN VĂN ĐẨU
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+*Femancia(Sắt fumarat + acid folic 305mg + 350mcg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+PHẠM THỊ NĂM
+-------------------------------------------------------------------------
+NGUYỄN NGỌC HƯƠNG
