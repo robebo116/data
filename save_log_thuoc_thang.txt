@@ -7647,3 +7647,26 @@ TRẦN THỊ QUẠ
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Caldihasan(Calci carbonat + vitamin D3 1250mg (tương đương 500mg calci) + 125UI) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+THI VĂN VỮNG
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Lungastic 20(Bambuterol 20mg) 28 Viên | Giá: 1890đ | Viện phí (Thuốc cũ: VACOBUTEROL 10(Bambuterol 10mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+TRẦN THỊ NHÀN
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGÔ XUÂN OÁNH
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Allopurinol(Allopurinol 300mg) | 14 Viên | BHYT
