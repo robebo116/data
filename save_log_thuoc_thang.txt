@@ -8333,3 +8333,31 @@ NGÔ XUÂN OÁNH
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Allopurinol(Allopurinol 300mg) | 14 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ NĂM
+ |==> Cho lại thuốc cũ | Insunova-G Pen(Insulin analog tác dụng chậm, kéo dài (Glargine, Detemir, Degludec) 100 IU/ml) | 2 Bút tiêm | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPAGIM 160(Fenofibrat 160mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+THI VĂN VỮNG
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 56 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | VACOOMEZ 40(Omeprazol 40mg) 28 Viên | Giá: 274đ | BHYT (Thuốc cũ: VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | VACOBUTEROL 10(Bambuterol 10mg) 14 Viên | Giá: 305đ | BHYT (Thuốc cũ: Lungastic 20(Bambuterol 20mg) | 20 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 112 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ VIỆT
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 56 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | VAZOLORE(Valsartan 80mg) 28 Viên | Giá: 689đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
