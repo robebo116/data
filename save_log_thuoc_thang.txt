@@ -8424,3 +8424,21 @@ LÊ THÀNH ĐẠT
  |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Usarichcatrol(Calcitriol 0,25mcg) 28 Viên | Giá: 295đ | BHYT (Thuốc cũ: Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT)
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+CAO THANH NHẪN
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 56 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 56 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ XIÊNG
+ |==> Cho lại thuốc cũ | Domperidon(Domperidon 10mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 56 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 28 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | VACOOMEZ 40(Omeprazol 40mg) 28 Viên | Giá: 274đ | BHYT (Thuốc cũ: VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Hamigel–S(Magnesi hydroxyd + nhôm hydroxyd + simethicon 800,4mg + 3058,83mg + 80mg, 10ml) | 56 gói | BHYT
+ |>>> Đổi thuốc mới | VACOBUTEROL 10(Bambuterol 10mg) 14 Viên | Giá: 305đ | BHYT (Thuốc cũ: Lungastic 20(Bambuterol 20mg) | 14 Viên | Viện Phí)
