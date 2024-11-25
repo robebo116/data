@@ -8180,3 +8180,23 @@ NGUYỄN THỊ CANG
  |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
  |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ TRIÊN
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 84 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ NÊ
+-------------------------------------------------------------------------
+VÕ THỊ UÔNL
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VASTAREL MR TAB 35MG(Trimetazidin 35mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Gabapentin(Gabapentin 300mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | HORNOL(Cytidin-5monophosphat disodium + uridin 5mg + 3mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Espumisan Capsules(Simethicon Simethicone 40mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
