@@ -8605,3 +8605,49 @@ NGUYỄN THỊ LIÊN
  |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
  |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THÀNH LỢI
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 28 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 56 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Vigahom(Sắt gluconat + mangan gluconat + đồng gluconat 431,68 mg, 11,65 mg, 5mg) | 28 Ống | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+MAI HÙNG MẠNH
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 56 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+PHẠM THỊ MẤY
+-------------------------------------------------------------------------
+NGUYỄN TRUNG NGHĨA
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 28 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 28 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Usarichcatrol(Calcitriol 0,25mcg) 28 Viên | Giá: 295đ | BHYT (Thuốc cũ: Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN BÁ NGỌC
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 56 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 28 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 28 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+TRẦN TRỌNG NHÂN
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | SaVi Telmisartan 40(Telmisartan 40mg) 56 Viên | Giá: 1255đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Kavasdin 5(Amlodipin 5mg) 56 Viên | Giá: 96đ | BHYT (Thuốc cũ: Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+*Thyperopa forte(Methyldopa 500mg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
