@@ -8790,3 +8790,13 @@ NGUYỄN THỊ BAO
  |==> Cho lại thuốc cũ | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Vigahom(Sắt gluconat + mangan gluconat + đồng gluconat 431,68 mg, 11,65 mg, 5mg) | 28 Ống | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ CANG
+ |>>> Đổi thuốc mới | AlphaDHG(Alpha chymotrypsin 21 microkatal) 22 viên | Giá: 670đ | BHYT (Thuốc cũ: AGICHYMO(Alpha chymotrypsin 4.2mg) | 168 Viên | Viện Phí)
+*VITAMIN C STELLA 1G(Vitamin C 1g) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | PARTAMOL TAB.(Paracetamol (acetaminophen) 500mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 56 Viên | BHYT
