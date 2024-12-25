@@ -9248,3 +9248,33 @@ LÊ THÀNH THẮNG
  |==> Cho lại thuốc cũ | Vincerol 1mg(Acenocoumarol 1mg) | 8 Viên | BHYT
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ GÁI
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 21 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | LIPAGIM 160(Fenofibrat 160mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ CƯỜNG
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VAZOLORE(Valsartan 80mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 21 viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+HUỲNH VĂN TÈO
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | VAZOLORE(Valsartan 80mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 21 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
