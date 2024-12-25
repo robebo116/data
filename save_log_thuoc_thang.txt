@@ -9278,3 +9278,28 @@ HUỲNH VĂN TÈO
  |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 21 Viên | BHYT
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
+-------------------------------------------------------------------------
+TRẦN THỊ QUẠ
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Caldihasan(Calci carbonat + vitamin D3 1250mg (tương đương 500mg calci) + 125UI) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN TIẾN PHÁT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
+-------------------------------------------------------------------------
+TRỊNH MINH THÁI
+ |>>> Đổi thuốc mới | Thyperopa forte(Methyldopa 500mg) 42 Viên | Giá: 1890đ | BHYT (Thuốc cũ: Thyperopa forte(Methyldopa 500mg) | 42 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 84 Viên | BHYT
