@@ -9366,3 +9366,29 @@ THI VĂN VỮNG
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 21 Viên | BHYT
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 84 Viên | BHYT
  |==> Cho lại thuốc cũ | VACOBUTEROL 10(Bambuterol 10mg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+LÂM TRỌNG HIẾU
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: VAZOLORE(Valsartan 80mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+PHẠM THỊ NĂM
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 21 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 21 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | LIPAGIM 160(Fenofibrat 160mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
+ |>>> Đổi thuốc mới | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) 21 Viên | Giá: 777đ | BHYT (Thuốc cũ: Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN VĂN ĐẨU
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
