@@ -9157,3 +9157,22 @@ VÕ THỊ UÔNL
  |==> Cho lại thuốc cũ | Espumisan Capsules(Simethicon Simethicone 40mg) | 63 Viên | BHYT
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+LƯƠNG VĂN XỘN
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | MitivitB(Vitamin B1 + B6 + B12 125mg; 125mg; 500mcg) 42 Viên | Giá: 2000đ | Viện phí (Thuốc cũ: Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+CAO THANH NHẪN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 21 Viên | BHYT
