@@ -9127,3 +9127,33 @@ PHAN HỮU NGỌC
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 21 Viên | BHYT
  |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 42 Viên | BHYT)
  |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+-------------------------------------------------------------------------
+CAO XUÂN HUÂN
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+-------------------------------------------------------------------------
+NGUYỄN THỊ XIÊNG
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 21 Viên | Giá: 200đ | BHYT (Thuốc cũ: SaVi Telmisartan 40(Telmisartan 40mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Hamigel–S(Magnesi hydroxyd + nhôm hydroxyd + simethicon 800,4mg + 3058,83mg + 80mg, 10ml) | 42 gói | BHYT
+ |==> Cho lại thuốc cũ | Domperidon(Domperidon 10mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOBUTEROL 10(Bambuterol 10mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Acetylcysteine 100mg(N-acetylcystein 100mg) | 84 Gói | BHYT
+-------------------------------------------------------------------------
+VÕ THỊ UÔNL
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: Losartan(Losartan 50mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VASTAREL MR TAB 35MG(Trimetazidin 35mg) | 42 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Gabapentin(Gabapentin 300mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | HORNOL(Cytidin-5monophosphat disodium + uridin 5mg + 3mg) | 42 Viên | BHYT
+ |>>> Đổi thuốc mới | MitivitB(Vitamin B1 + B6 + B12 125mg; 125mg; 500mcg) 42 Viên | Giá: 2000đ | Viện phí (Thuốc cũ: Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Espumisan Capsules(Simethicon Simethicone 40mg) | 63 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 21 Viên | BHYT
