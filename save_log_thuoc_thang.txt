@@ -9392,3 +9392,24 @@ NGUYỄN VĂN ĐẨU
  |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 21 Viên | BHYT)
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
  |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 42 Viên | BHYT
+-------------------------------------------------------------------------
+TRẦN THỊ NHÀN
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 42 Viên | Giá: 200đ | BHYT (Thuốc cũ: VAZOLORE(Valsartan 80mg) | 42 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 21 Viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Rosuvastatin 10(Rosuvastatin 10mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 84 Viên | BHYT
+-------------------------------------------------------------------------
+ĐỖ THANH HÙNG
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 21 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 21 viên | BHYT
+ |>>> Đổi thuốc mới | LIPOTATIN 20MG(Atorvastatin 20mg) 21 Viên | Giá: 438đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 21 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 21 Viên | BHYT
+-------------------------------------------------------------------------
+VÕ THỊ NGỌC ĐIỆP
+ |==> Cho lại thuốc cũ | Insunova-G Pen(Insulin analog tác dụng chậm, kéo dài (Glargine, Detemir, Degludec) 100 IU/ml) | 2 Bút tiêm | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 21 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 42 Viên | BHYT
+ |==> Cho lại thuốc cũ | Vigahom(Sắt gluconat + mangan gluconat + đồng gluconat 431,68 mg, 11,65 mg, 5mg) | 21 Ống | BHYT
+ |>>> Đổi thuốc mới | Simvastatin Savi 20(Simvastatin 20mg) 21 Viên | Giá: 655đ | BHYT (Thuốc cũ: Simvastatin Savi 20(Simvastatin 20mg) | 21 Viên | BHYT)
