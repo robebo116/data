@@ -9497,3 +9497,26 @@ NGUYỄN THỊ GÁI
  |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
 -------------------------------------------------------------------------
 LÂM THỊ THANH THÚY
+-------------------------------------------------------------------------
+TRẦN THỊ NHÀN
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+*VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 112 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ THÀNH ĐẠT
+-------------------------------------------------------------------------
+VÕ THỊ UÔNL
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VASTAREL MR TAB 35MG(Trimetazidin 35mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Gabapentin(Gabapentin 300mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | HORNOL(Cytidin-5monophosphat disodium + uridin 5mg + 3mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) 56 Viên | Giá: 1113đ | BHYT (Thuốc cũ: MitivitB(Vitamin B1 + B6 + B12 125mg; 125mg; 500mcg) | 56 Viên | Viện Phí)
+ |>>> Đổi thuốc mới | AIR-X 120(Simethicon 120mg) 84 Viên | Giá: 1365đ | BHYT (Thuốc cũ: Espumisan Capsules(Simethicon Simethicone 40mg) | 84 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+*VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
