@@ -9633,3 +9633,11 @@ PHAN HỮU NGỌC
 *VITASUN TAB(Sắt fumarat + acid folic 322mg + 350mcg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
  |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+CAO THANH NHẪN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | VACOOMEZ 40(Omeprazol 40mg) 28 Viên | Giá: 274đ | BHYT (Thuốc cũ: Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT)
