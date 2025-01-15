@@ -9905,3 +9905,13 @@ NGUYỄN THỊ LIÊN
  |==> Cho lại thuốc cũ | Aspirin Stella 81mg(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 viên | BHYT
  |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
  |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+PHAN THỊ GÁI
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Sitagibes 50(Sitagliptin 50mg) 28 Viên | Giá: 2250đ | Viện phí (Thuốc cũ: TRANAGLIPTIN 5(Linagliptin 5mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | VACOOMEZ 40(Omeprazol 40mg) 28 Viên | Giá: 274đ | BHYT (Thuốc cũ: Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Mucosta  Tablets 100mg(Rebamipid 100mg) | 56 Viên | Viện Phí
