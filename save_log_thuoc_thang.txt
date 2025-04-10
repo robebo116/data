@@ -263,3 +263,29 @@ HUỲNH VĂN TÈO
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+LÂM THỊ THANH THÚY
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 56 Viên | BHYT
+*Thyperopa forte(Methyldopa 500mg) | 42 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 56 Viên | Giá: 200đ | BHYT (Thuốc cũ: VAZOLORE(Valsartan 80mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 56 Viên | BHYT
+*HEMAFETIMAX(Sắt fumarat + acid folic 200mg +  1mg) | 84 Viên | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
+-------------------------------------------------------------------------
+NGUYỄN VĂN THỰC
+-------------------------------------------------------------------------
+NGUYỄN THỊ NÊ
+-------------------------------------------------------------------------
+PHAN THỊ GÁI
+ |>>> Đổi thuốc mới | Auclanityl 500/125mg(Amoxicilin + acid clavulanic 500mg + 125mg) 14 Viên | Giá: 1669đ | BHYT (Thuốc cũ: Klamentin 500/62.5(Amoxicilin + acid clavulanic 500mg + 62,5mg) | 56 gói | BHYT)
+ |==> Cho lại thuốc cũ | Cravit tab 500(Levofloxacin 500mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Acetylcysteine 100mg(N-acetylcystein 100mg) | 168 Gói | BHYT
+ |==> Cho lại thuốc cũ | PARTAMOL TAB.(Paracetamol (acetaminophen) 500mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nifedipin Hasan 20 Retard(Nifedipin 20mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
