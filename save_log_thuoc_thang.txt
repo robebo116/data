@@ -204,3 +204,12 @@ LƯƠNG THỊ SEN
  |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+HUỲNH VĂN HÙNG
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | TELI 80(Telmisartan 80mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Gabapentin(Gabapentin 300mg) 28 Viên | Giá: 386đ | BHYT (Thuốc cũ: Mezapentin 600(Gabapentin 600mg) | 28 Viên | BHYT)
