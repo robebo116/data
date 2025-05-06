@@ -822,3 +822,12 @@ NGUYỄN THỊ NGỌC LAN
  |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
 -------------------------------------------------------------------------
 NGUYỄN THỊ TRIÊN
+-------------------------------------------------------------------------
+NGUYỄN THỊ NGỌC LAN
+ |==> Cho lại thuốc cũ | Fefasdin 60(Fexofenadin 60mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
