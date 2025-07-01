@@ -2416,3 +2416,15 @@ VÕ THỊ HUÊ
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Fefasdin 60(Fexofenadin 60mg) | 84 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ NÊ
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+*Thyperopa forte(Methyldopa 500mg) | 28 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Pecrandil 5(Nicorandil 5mg) 56 Viên | Giá: 1596đ | BHYT (Thuốc cũ: Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 56 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
