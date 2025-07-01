@@ -2215,3 +2215,46 @@ NGUYỄN THỊ MỸ EM
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ THẮM
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | CORNEIL-2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ THỊ LIÊN
+ |==> Cho lại thuốc cũ | Dalekine(Valproat natri 200mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Tunadimet(Clopidogrel 75mg) 28 Viên | Giá: 272đ | BHYT (Thuốc cũ: Plavix 75mg(Clopidogrel 75mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ XIÊNG
+ |==> Cho lại thuốc cũ | Zensalbu nebules 2.5(Salbutamol sulfat 2,5mg/2,5ml) | 56 Ống | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Domperidon(Domperidon 10mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Acetylcysteine 100mg(N-acetylcystein 100mg) | 112 Gói | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | VACOBUTEROL 10(Bambuterol 10mg) 28 Viên | Giá: 305đ | BHYT (Thuốc cũ: Lungastic 20(Bambuterol 20mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | SaVi Telmisartan 40(Telmisartan 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Hamigel–S(Magnesi hydroxyd + nhôm hydroxyd + simethicon 800,4mg + 3058,83mg + 80mg, 10ml) | 56 gói | BHYT
+-------------------------------------------------------------------------
+LƯƠNG VĂN XỘN
+ |==> Cho lại thuốc cũ | Nifehexal 30 LA(Nifedipin 30mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 56 Viên | BHYT
