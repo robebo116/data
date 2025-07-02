@@ -2656,3 +2656,37 @@ PHẠM THỊ MẤY
  |==> Cho lại thuốc cũ | LIPAGIM 160(Fenofibrat 160mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+MAI HÙNG MẠNH
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Pecrandil 5(Nicorandil 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN TRUNG NGHĨA
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN BÁ NGỌC
+ |==> Cho lại thuốc cũ | Bisoprolol(Bisoprolol 5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+HÀ THỊ THI
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 84 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
