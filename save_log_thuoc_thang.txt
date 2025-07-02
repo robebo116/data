@@ -2603,3 +2603,46 @@ TRẦN THANH HOÀI
  |==> Cho lại thuốc cũ | Lansoprazol(Lansoprazol 30mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
  |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ LẮM
+ |==> Cho lại thuốc cũ | CADINUTRIVIT G(Cao nhân sâm, Vitamin A, D3, E, B1, B2, C, B6, PP, B5, Sắt, Magie, Kẽm, Calci 40mg+1000IU 400IU+10mg 2mg+3mg+60mg1mg+2mg+10mg 1,65mg+6mg 0,8mg+21,42mg) | 56 Viên | Viện Phí
+*Gaviscon Dual Action sachets 10ml(Alginat natri, Natri bicarbonat, Canxi carbonat (500mg + 213mg + 325mg)/10ml) | 56 Gói | Viện Phí + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | Ibutop 50(Itoprid 50mg) | 84 Viên | Viện Phí
+*Rotundin - SPM (ODT)(Rotundin 30mg) | 56 Viên | BHYT + |==> Hết thuốc và không có thuốc thay thế
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Aspirin 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Baci-subti(Bacillus subtilis >=10^8 CFU/ 500mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Thyperopa forte(Methyldopa 500mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Mucosta Tablets 100mg(Rebamipid 100mg) | 84 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Espumisan Capsules(Simethicon Simethicone 40mg) | 168 Viên | BHYT
+ |==> Cho lại thuốc cũ | Hamigel–S(Magnesi hydroxyd + nhôm hydroxyd + simethicon 800,4mg + 3058,83mg + 80mg, 10ml) | 56 gói | BHYT
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ LIÊN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Isosorbid(Isosorbid (dinitrat hoặcmononitrat) 10mg) 28 Viên | Giá: 132đ | BHYT (Thuốc cũ: Imidu 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Aspirin 81(Acetylsalicylic acid (DL-lysin-acetylsalicylat) 81mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+NGUYỄN THÀNH LỢI
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Losartan(Losartan 50mg) 56 Viên | Giá: 200đ | BHYT (Thuốc cũ: TELI 80(Telmisartan 80mg) | 56 Viên | BHYT)
+ |>>> Đổi thuốc mới | Bisoprolol(Bisoprolol 5mg) 28 Viên | Giá: 133đ | BHYT (Thuốc cũ: Betaloc Zok 25mg(Metoprolol 23,75mg (tương đương với 25mg metoprolol tartrat hoặc 19,5mg metoprolol)) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+ĐẶNG THỊ KIM MAI
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | BHYT (Thuốc cũ: Usarichcatrol(Calcitriol 0,25mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
