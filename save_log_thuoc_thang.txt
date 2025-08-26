@@ -3821,3 +3821,13 @@ TRỊNH MINH THÁI
  |==> Cho lại thuốc cũ | Vincerol 1mg(Acenocoumarol 1mg) | 12 Viên | BHYT
  |==> Cho lại thuốc cũ | Rosuvastatin 10(Rosuvastatin 10mg) | 56 Viên | BHYT
  |==> Cho lại thuốc cũ | VACOOMEZ 40(Omeprazol 40mg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+LÊ THÀNH ĐẠT
+ |==> Cho lại thuốc cũ | Betaloc Zok 50mg(Metoprolol 47,5mg (tương đương với 50mg metoprolol tartrate hoặc 39mg metoprolol)) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Imidu® 60 mg(Isosorbid (dinitrat hoặcmononitrat) 60mg) | 28 Viên | BHYT
