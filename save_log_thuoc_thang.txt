@@ -5573,3 +5573,50 @@ LƯƠNG VĂN XỘN
  |==> Cho lại thuốc cũ | Neutrifore(Vitamin B1 + B6 + B12 250mg + 250mg + 1000mcg) | 28 Viên | BHYT
  |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | Viện phí (Thuốc cũ: Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT)
  |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 56 Viên | BHYT
+-------------------------------------------------------------------------
+CAO XUÂN HUÂN
+ |==> Cho lại thuốc cũ | Kavasdin 5(Amlodipin 5mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Tunadimet(Clopidogrel 75mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | Viện phí (Thuốc cũ: Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT)
+ |>>> Đổi thuốc mới | Mezapentin 600(Gabapentin 600mg) 28 Viên | Giá: 2394đ | BHYT (Thuốc cũ: Gabapentin(Gabapentin 300mg) | 28 Viên | BHYT)
+-------------------------------------------------------------------------
+NGUYỄN TẤN THỦY
+ |==> Cho lại thuốc cũ | Methyl prednisolon 4(Methyl prednisolon 4mg) | 14 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | LIPOTATIN 20MG(Atorvastatin 20mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Esomeprazol 40(Esomeprazol 40mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Allopurinol(Allopurinol 300mg) | 14 Viên | Viện Phí
+ |>>> Đổi thuốc mới | Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) 28 Viên | Giá: 777đ | Viện phí (Thuốc cũ: Calcitriol DHT 0,5mcg(Calcitriol 0,5mcg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+-------------------------------------------------------------------------
+NGUYỄN THỊ BÁNH
+ |==> Cho lại thuốc cũ | Sitagibes 50(Sitagliptin 50mg) | 28 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | Calciferat 750mg/200IU(Calci carbonat + vitamin D3 750mg; 200UI) | 56 Viên | BHYT
+ |>>> Đổi thuốc mới | Mezapentin 600(Gabapentin 600mg) 308 Viên | Giá: 2394đ | BHYT (Thuốc cũ: Gabapentin(Gabapentin 300mg) | 28 Viên | Viện Phí)
+ |==> Cho lại thuốc cũ | HORNOL(Cytidin-5monophosphat disodium + uridin 5mg + 3mg) | 56 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | Mycemol(Paracetamol + methocarbamol 500mg + 400mg) | 84 Viên | Viện Phí
+ |==> Cho lại thuốc cũ | NANOKINE 2000 IU(Erythropoietin 2000 IU/1ml) | 28 Lọ | BHYT
+ |==> Cho lại thuốc cũ | Heparin- Belmed(Heparin (natri) 5000UI/ml) | 56 ml | Viện Phí
+ |==> Cho lại thuốc cũ | NATRI CLORID 0,9%(Natri clorid 0,9%/500ml) | 56 Chai | Viện Phí
+ |==> Cho lại thuốc cũ | NATRI CLORID 0,9% 1000ml (Kabi)(Natri clorid 0,9% 1000ml) | 28 Chai | Viện Phí
+-------------------------------------------------------------------------
+NGUYỄN THỊ THỦY
+-------------------------------------------------------------------------
+VÕ THỊ HUÊ
+ |==> Cho lại thuốc cũ | CORNEIL-2,5(Bisoprolol 2,5mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | AGIFUROS(Furosemid 40mg) | 112 Viên | BHYT
+ |>>> Đổi thuốc mới | Rosuvastatin 10(Rosuvastatin 10mg) 28 Viên | Giá: 285đ | BHYT (Thuốc cũ: Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT)
+ |==> Cho lại thuốc cũ | Pregabalin 75mg(Pregabalin 75mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
+ |>>> Đổi thuốc mới | AGIMFAST 60(Fexofenadin 60mg) 84 Viên | Giá: 1575đ | Viện phí (Thuốc cũ: Fefasdin 60(Fexofenadin 60mg) | 84 Viên | BHYT)
+-------------------------------------------------------------------------
+ĐẶNG THỊ PHƯỢNG
+ |==> Cho lại thuốc cũ | Losartan(Losartan 50mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Nifehexal 30 LA(Nifedipin 30mg) | 56 Viên | BHYT
+ |==> Cho lại thuốc cũ | Danapha-Rosu 20(Rosuvastatin 20 mg) | 28 Viên | BHYT
+ |==> Cho lại thuốc cũ | PymeFERON B9(Sắt sulfat + folic acid 50mg + 350mcg) | 28 Viên | BHYT
